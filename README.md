@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prithviraj
-- 👀 I’m interested in Football
+- 👀 I’m interested in Data Science 
 - 🌱 I’m currently Undergraduate 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects involving Machine learning,Data analysis
 - 📫 How to reach me 44prithviraj44@gmail.com
 
 <!---
