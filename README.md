@@ -1,5 +1,43 @@
-# 💫 About Me:
-# 👋 Hey there! I'm Prithviraj More — the Lazy Coder 😴💻<br><br>## 🚀 About Me<br><br>- 👨‍💻 Currently grinding through some cool **MERN stack projects**<br>- 🤖 Looking to **collaborate on AI/ML projects** — if it’s smart, I’m interested!<br>- 🎓 Pursuing **B.Tech in CSE (AI & ML)** — learning how to make machines think so I don’t have to 😅<br>- 🧠 Believer in “Why do it manually when you can automate it?”<br><br>## 💼 Tech Stack<br><br>- 🟦 Frontend: `React.js`, `HTML`, `CSS`, `Tailwind`<br>- 🟩 Backend: `Node.js`, `Express.js`<br>- 🗃️ Database: `MongoDB`<br>- ⚙️ Others: `Git`, `Postman`, `VS Code`, `Firebase`<br>- 🤖 AI/ML: `Python`, `Pandas`, `Scikit-learn`, `TensorFlow` *(always exploring!)*<br><br>## 🤝 Let's Connect<br><br>- 📫 Reach me at: drl.prithviraj44@gmail.com  <br>- 💬 Let’s talk code, AI, or why you shouldn’t hardcode stuff at 3AM.<br>- 🌐 Portfolio: prithvi44.ccbp.tech<br><br>## 🧘 Fun Facts<br><br>- I don’t always code, but when I do... it’s right before the deadline 🚨  <br>- Proud member of the “**Why write 10 lines when you can copy-paste 20**” club  <br>- My favorite keyboard shortcut? `Ctrl + C` and `Ctrl + V` 🔁<br><br>---<br><br>_“Code smart, not hard.”_<br><br>
+**Hi there! I'm Prithviraj More — aka *The Lazy Coder* 😴💻**
+
+---
+
+### 🚀 About Me
+
+- 👨‍💻 Currently working on exciting **MERN stack projects**
+- 🤖 Eager to **collaborate on AI/ML projects** — if it’s intelligent, I’m interested
+- 🎓 Pursuing **B.Tech in CSE (AI & ML)** — learning how to make machines think so I don’t have to 😅
+- 🧠 Firm believer in automation: *Why do it manually when you can automate it?*
+
+---
+
+### 💼 Tech Stack
+
+- **Frontend:** React.js, HTML, CSS, Tailwind  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Tools & Platforms:** Git, Postman, VS Code, Firebase  
+- **AI/ML:** Python, Pandas, Scikit-learn, TensorFlow *(constantly exploring!)*
+
+---
+
+### 🤝 Let’s Connect
+
+- 📫 Email: [drl.prithviraj44@gmail.com](mailto:drl.prithviraj44@gmail.com)  
+- 🌐 Portfolio: [prithvi44.ccbp.tech](https://prithvi44.ccbp.tech)  
+- 💬 Always open to discussing code, AI, or why debugging at 3 AM is a bad idea
+
+---
+
+### 🧘 Fun Facts
+
+- I don’t always code, but when I do… it’s right before the deadline 🚨  
+- Member of the “**Why write 10 lines when you can copy-paste 20**” club  
+- Favorite keyboard shortcut? `Ctrl + C` → `Ctrl + V` 🔁
+
+---
+
+> _“Code smart, not hard.”_
 
 
 ## 🌐 Socials:
