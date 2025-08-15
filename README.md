@@ -14,7 +14,7 @@
 ### 💼 Tech Stack
 
 - **Frontend:** React.js, HTML, CSS, Tailwind  
-- **Backend:** Node.js, Express.js  
+- **Backend:** Node.js, Express.js.
 - **Database:** MongoDB  
 - **Tools & Platforms:** Git, Postman, VS Code, Firebase  
 - **AI/ML:** Python, Pandas, Scikit-learn, TensorFlow *(constantly exploring!)*
