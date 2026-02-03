@@ -24,7 +24,7 @@
 ### 🤝 Let’s Connect
 
 - 📫 Email: [drl.prithviraj44@gmail.com](mailto:drl.prithviraj44@gmail.com)  
-- 🌐 Portfolio: [prithvi44.ccbp.tech]([https://prithvi-more-44.vercel.app/])  
+- 🌐 Portfolio: [prithvi44.ccbp.tech](https://prithvi-more-44.vercel.app/)  
 - 💬 Always open to discussing code, AI, or why debugging at 3 AM is a bad idea
 
 ---
