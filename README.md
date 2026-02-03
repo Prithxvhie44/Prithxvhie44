@@ -24,14 +24,14 @@
 ### 🤝 Let’s Connect
 
 - 📫 Email: [drl.prithviraj44@gmail.com](mailto:drl.prithviraj44@gmail.com)  
-- 🌐 Portfolio: [prithvi44.ccbp.tech](https://prithvi-more-44.vercel.app/)  
+- 🌐 Portfolio: [Prithviraj-More](https://prithvi-more-44.vercel.app/)  
 - 💬 Always open to discussing code, AI, or why debugging at 3 AM is a bad idea
 
 ---
 
 ### 🧘 Fun Facts
 
-- I don’t always code, but when I do… it’s right before the deadline 🚨  
+- I don’t always code, but when I do… It’s right before the deadline 🚨  
 - Member of the “**Why write 10 lines when you can copy-paste 20**” club  
 - Favorite keyboard shortcut? `Ctrl + C` → `Ctrl + V` 🔁
 
